@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: black;
+}
+.form_bck{
+    height: 600px;
+    width:50%;
+}
+.input_reg {
+   border: none;
+    border-bottom: 3px solid rgb(201, 201, 18) ;
+}
+.sub_form{
+   width: 30%;
+   border: none;
+   border-radius: 10px;
+}
+.text-center{
+    color:aliceblue;
+}
